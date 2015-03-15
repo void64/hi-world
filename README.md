@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/lczx/hi-world.png?label=ready&title=Ready)](https://waffle.io/lczx/hi-world)
 # hi-world
 _Hello, World! A meaningless repo for testing local git configuration and getting familiar with GitHub._
 
