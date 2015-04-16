@@ -1,2 +1,4 @@
-source:      src
-destination: _deploy
+destination: deploy
+exclude:
+- Gemfile
+- Gemfile.lock
